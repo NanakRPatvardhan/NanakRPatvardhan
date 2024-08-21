@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NANAKisTHEGOAT
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Bachelor of science in computer science
+- 🌱 I’m currently learning Bachelor of science in computer science (First Year)
 - 💞️ I’m looking to collaborate on IT Industries 
 - 📫 How to reach me Just DM/MSG OR Discord (user at discord :- takistayt1846)
 - 😄 Pronouns: TAKISTA BUT CALL ME TAKIS IN SHORT MY REAL NAME IS NANAK
