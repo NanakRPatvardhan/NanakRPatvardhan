@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @NANAKisTHEGOAT
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Bachelor of science in computer science (First Year)
-- 💞️ I’m looking to collaborate on IT Industries 
-- 📫 How to reach me Just DM/MSG OR Discord (user at discord :- takistayt1846)
-- 😄 Pronouns: TAKISTA BUT CALL ME TAKIS IN SHORT MY REAL NAME IS NANAK
-- ⚡ Fun fact: I HATE KIDS ( its personal )
+Hey there! I'm Nanak, an eager web development enthusiast currently diving into JavaScript, HTML, CSS, and Advanced Python. I'm actively learning both front-end and back-end development through FreeCodeCamp and Angela Yu's Full Stack Web Development Bootcamp on Udemy.
 
-<!---
-NANAKisTHEGOAT/NANAKisTHEGOAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My GitHub repository is a reflection of my learning journey, featuring projects that showcase my growing skills and dedication. I'm passionate about creating clean, efficient code and building user-friendly applications. I'm on the lookout for internship opportunities to apply my knowledge and gain hands-on experience.
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss exciting opportunities in the world of web development.
